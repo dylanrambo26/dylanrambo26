@@ -1,3 +1,7 @@
 - Hi, My name is @dylanrambo26
 - I'm currently a CS Major at San Diego State University
-- I'm taking CS 370 and CS 420 currently
+- My coding interests include android development, web development, and Unity
+- Classes I'm currently taking at SDSU:
+  - CS 450: Intro to AI
+  - CS 460: Algorithms
+  - CS 514: Database Theory and Implementation
