@@ -2,6 +2,7 @@
 - I'm currently a CS Major at San Diego State University
 - My coding interests include android development, web development, and Unity
 - Classes I'm currently taking at SDSU:
-  - CS 450: Intro to AI
-  - CS 460: Algorithms
-  - CS 514: Database Theory and Implementation
+  - CS 578: Wireless Networks
+  - CS 470: UNIX System Administration
+  - CS 583: 3D Game Programming
+  - STAT 550: Applied Probability with R
