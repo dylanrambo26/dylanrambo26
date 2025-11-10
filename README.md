@@ -6,3 +6,4 @@
   - CS 470: UNIX System Administration
   - CS 583: 3D Game Programming
   - STAT 550: Applied Probability with R
+- Expected Graduation: May 2026
