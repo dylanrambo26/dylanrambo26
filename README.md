@@ -1,9 +1,7 @@
 - Hi, My name is @dylanrambo26
 - I'm currently a CS Major at San Diego State University
-- My coding interests include android development, web development, and Unity
+- My coding interests include android development, web development, and Unity game development
 - Classes I'm currently taking at SDSU:
-  - CS 578: Wireless Networks
-  - CS 470: UNIX System Administration
-  - CS 583: 3D Game Programming
-  - STAT 550: Applied Probability with R
+  - CS 596: Advanced 3D Game Programming
+  - CS 574: Computer Security
 - Expected Graduation: May 2026
